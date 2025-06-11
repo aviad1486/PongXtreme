@@ -64,6 +64,7 @@ Whether you're playing competitively or just having fun, PONGXTREME delivers neo
 1. Open the project in Unity 
 2. Click ▶️ Play in the top menu
 3. Choose your game mode and enjoy!
+4. Or you can play the game over here: https://aviad14200.itch.io/pongxtreme
 
 ---
 
